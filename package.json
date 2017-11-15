@@ -1,0 +1,17 @@
+{
+  "name": "z-api",
+  "version": "1.0.0",
+  "description": "HvZ Data Layer API",
+  "main": "build.js",
+  "scripts": {
+    "test": "app.js"
+  },
+  "keywords": [
+    "humans",
+    "vs",
+    "zombies",
+    "api"
+  ],
+  "author": "Sean M. Dillon",
+  "license": "ISC"
+}
